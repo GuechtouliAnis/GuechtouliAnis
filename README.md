@@ -14,7 +14,7 @@
 
 <h2>📜 About Me</h2>
 <p align="left">
-I'm a Data Analyst at the start of my journey in the vast world of data. My journey began during a <b>6-month internship</b> at <a href='https://caar.dz/'>CAAR</a>, an insurance company in Algeria, where I developed a <b>data analysis dashboard</b> a project that sparked my passion for turning data into actionable insights.
+I'm a Data Scientist at the start of my journey in the vast world of data. My journey began during a <b>6-month internship</b> at <a href='https://caar.dz/'>CAAR</a>, an insurance company in Algeria, where I developed a <b>data analysis dashboard</b> a project that sparked my passion for turning data into actionable insights.
 
 I am now a <b>Data Science intern</b> at <a href='https://www.djezzy.dz/'>Djezzy</a>, where I continue to build on my skills and gain hands-on experience in the field of data science.
 </p>
@@ -57,4 +57,3 @@ This profile showcases my journey so far, including projects in <b>data analysis
     <td><img src="imgs/Git.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Git</p></td>    
   </tr>
 </table>
-
