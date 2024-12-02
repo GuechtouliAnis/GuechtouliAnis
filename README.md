@@ -1,22 +1,84 @@
-<h1 align="center">Hello there 👋, I'm Anis Guechtouli</h1>
-<p align="left">Welcome to my GitHub profile! I'm a passionate Data Science enthusiast currently pursuing a Master's Degree in Data Science at the University of Algiers. With a solid foundation in Information Systems from my Bachelor's degree, I'm on an exciting journey to harness the power of data to drive meaningful insights.</p>
+<center>
+  <h1>👋 Hello there, I'm Anis</h1>
+</center>
 
-- 📫 How to reach me **guechtoulianiss7@gmail.com**
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/anis-guechtouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anis-guechtouli" height="30" width="40" /></a>
-<a href="https://kaggle.com/anisguechtouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anisguechtouli" height="30" width="40" /></a>
-<a href="https://fb.com/anissguechtouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anissguechtouli" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@guechtoulianiss7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@guechtoulianiss7" height="30" width="40" /></a>
+<p align="center">
+  <b>Data Enthusiast 📊</b> | <b>Football Fan ⚽</b>
 </p>
 
+<p align="center">
+  <span style="font-size: 18px; font-style: italic; font-family: 'Georgia, serif'; color: #f39c12;">
+  <q> Where data sparks the light of revelation. ✨</q>
+  </span>
+</p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h2>About Me</h2>
+<p align="left">
+I'm a Data Analyst at the start of my journey in the vast world of data. My journey began during a <b>6-month internship</b> at <a href='https://caar.dz/'>CAAR</a>, an insurance company in Algeria, where I developed a <b>data analysis dashboard</b> a project that sparked my passion for turning data into actionable insights.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guechtoulianis&" alt="guechtoulianis" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guechtoulianis&show_icons=true&locale=en" alt="guechtoulianis" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guechtoulianis&show_icons=true&locale=en&layout=compact" alt="guechtoulianis" /></p>
+I am now a <b>Data Science intern</b> at <a href='https://www.djezzy.dz/'>Djezzy</a>, where I continue to build on my skills and gain hands-on experience in the field of data science.
+</p>
+<p>
+This profile showcases my journey so far, including projects in <b>data analysis</b>, <b>visualization</b>, and <b>machine learning</b>, with a focus on real-world applications and insights.</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guechtoulianis" alt="guechtoulianis" /></a> </p>
+<h2>Contact Me</h2>
+<p>For more information, collaborations, or if you'd like to connect on data science or football analytics, feel free to reach out!</p>
+
+<table border="0" style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 20%;"><a href="mailto:guechtoulianiss7@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #D32F2F; color: white; text-decoration: none; border-radius: 5px;"><b>Email</b></a></td>
+    <td style="width: 20%;"><a href="https://www.linkedin.com/in/anis-guechtouli/" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;"><b>LinkedIn</b></a></td>
+    <td style="width: 20%;"><a href="https://www.kaggle.com/anisguechtouli" style="display: inline-block; padding: 10px 20px; background-color: #20beff; color: White; text-decoration: none; border-radius: 5px;"><b>Kaggle</b></a></td>
+    <td style="width: 20%;"><a href="https://github.com/GuechtouliAnis" style="display: inline-block; padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;"><b>GitHub</b></a></td>
+    <td style="width: 20%;"><a href="files/Anis-Guechtouli-EN.pdf" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;"><b>Resume</b></a></td>
+  </tr>
+</table>
+
+<p>I look forward to connecting with you!</p>
+
+<h2>Skills</h2>
+<p>Throughout my learning journey in data science I have developed expertise in various skills and tools. I've used these in a wide range of projects, from initial data analysis to building machine learning models.
+<br/>Here's an overview of what I've worked with:</p>
+
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); grid-gap: 20px; text-align: center;">
+  <div>
+    <img src="imgs/python.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Python</p>
+  </div>
+  <div>
+    <img src="imgs/jupyter.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Jupyter</p>
+  </div>
+  <div>
+    <img src="imgs/pandas.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Pandas</p>
+  </div>
+  <div>
+    <img src="imgs/matplotlib.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Matplotlib</p>
+  </div>
+  <div>
+    <img src="imgs/sklearn.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Scikit-learn</p>
+  </div>
+  <div>
+    <img src="imgs/sqlite.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>SQLite</p>
+  </div>
+  <div>
+    <img src="imgs/Excel.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Excel</p>
+  </div>
+  <div>
+    <img src="imgs/powerbi.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>PowerBI</p>
+  </div>
+  <div>
+    <img src="imgs/tableau.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Tableau</p>
+  </div>
+  <div>
+    <img src="imgs/Git.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;">
+    <p>Git</p>
+  </div>
+</div>
