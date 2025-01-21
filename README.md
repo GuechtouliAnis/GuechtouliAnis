@@ -29,7 +29,6 @@ This profile showcases my journey so far, including projects in <b>data analysis
     <td style="width: 20%;" align="center"><a href="mailto:guechtoulianiss7@gmail.com"><b>Email</b></a></td>
     <td style="width: 20%;" align="center"><a href="https://www.linkedin.com/in/anis-guechtouli/"><b>LinkedIn</b></a></td>
     <td style="width: 20%;" align="center"><a href="https://www.kaggle.com/anisguechtouli"><b>Kaggle</b></a></td>
-    <td style="width: 20%;" align="center"><a href="https://github.com/GuechtouliAnis"><b>GitHub</b></a></td>
     <td style="width: 20%;" align="center"><a href="files/Anis-Guechtouli-EN.pdf"><b>Resume</b></a></td>
   </tr>
 </table>
