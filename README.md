@@ -26,10 +26,10 @@ This profile showcases my journey so far, including projects in <b>data analysis
 
 <table border="0" style="width: 100%; text-align: center;" align="center">
   <tr>
-    <td><a href="mailto:guechtoulianiss7@gmail.com"><img src="imgs/Gmail.png" style="width: 50px; height: 50px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Email</b></p></a></td>
-    <td><a href="https://www.linkedin.com/in/anis-guechtouli/"><img src="imgs/LinkedIn.png" style="width: 50px; height: 50px; object-fit: contain; margin: 0 auto;"><p align="center"><b>LinkedIn</b></p></a></td>
-    <td><a href="https://www.kaggle.com/anisguechtouli"><img src="imgs/Kaggle.png" style="width: 50px; height: 50px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Kaggle</b></p></a></td>
-    <td><a href="files/Anis-Guechtouli-EN.pdf"><img src="imgs/cv.png" style="width: 50px; height: 50px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Resume</b></p></a></td>
+    <td><a href="mailto:guechtoulianiss7@gmail.com"><img src="imgs/Gmail.png" style="width: 85px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Email</b></p></a></td>
+    <td><a href="https://www.linkedin.com/in/anis-guechtouli/"><img src="imgs/LinkedIn.png" style="width: 75px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>LinkedIn</b></p></a></td>
+    <td><a href="https://www.kaggle.com/anisguechtouli"><img src="imgs/Kaggle.png" style="width: 75px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Kaggle</b></p></a></td>
+    <td><a href="files/Anis-Guechtouli-EN.pdf"><img src="imgs/cv.png" style="width: 75px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Resume</b></p></a></td>
     <!--'Resume image from : Flaticon.com-->
   </tr>
 </table>
