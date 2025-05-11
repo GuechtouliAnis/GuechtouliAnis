@@ -36,7 +36,7 @@ This profile showcases my journey so far, including projects in <b>data analysis
 
 <p>I look forward to connecting with you!</p>
 
-<h2>⭐ Skills</h2>
+<h2>⭐ Tech Stack</h2>
 <p>Throughout my learning journey in data science I have developed expertise in various skills and tools. I've used these in a wide range of projects, from initial data analysis to building machine learning models.
 <br/>Here's an overview of what I've worked with :</p>
 
@@ -67,7 +67,6 @@ This profile showcases my journey so far, including projects in <b>data analysis
     <td><img src="imgs/mysql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">MySQL</p></td>
     <td><img src="imgs/PhpMyAdmin.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">phpMyAdmin</p></td>
     <td><img src="imgs/Oracle.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Oracle</p></td>
-    <td><img src="imgs/mongodb.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">MongoDB</p></td>
   </tr>
 </table>
 
