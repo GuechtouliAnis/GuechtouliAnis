@@ -31,6 +31,7 @@ This profile showcases my journey so far, including projects in <b>data analysis
     <td><a href="https://www.kaggle.com/anisguechtouli"><img src="imgs/Kaggle.png" style="width: 75px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Kaggle</b></p></a></td>
     <td><a href="files/Anis-Guechtouli-EN.pdf"><img src="imgs/cv.png" style="width: 75px; height: 75px; object-fit: contain; margin: 0 auto;"><p align="center"><b>Resume</b></p></a></td>
     <!--'Resume image from : Flaticon.com-->
+    <!--'Resume was made using : app.FlowCV.com-->
   </tr>
 </table>
 
