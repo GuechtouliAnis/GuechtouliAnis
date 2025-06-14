@@ -14,12 +14,16 @@
 
 <h2>📜 About Me</h2>
 <p align="left">
-I'm a Data Scientist at the start of my journey in the vast world of data. My journey began during a <b>6-month internship</b> at <a href='https://caar.dz/'>CAAR</a>, an insurance company in Algeria, where I developed a <b>data analysis dashboard</b> a project that sparked my passion for turning data into actionable insights.
-
-I am now a <b>Data Science intern</b> at <a href='https://www.djezzy.dz/'>Djezzy</a>, where I continue to build on my skills and gain hands-on experience in the field of data science.
+I'm a Data Scientist with a strong foundation in analytics, machine learning, and natural language processing. My journey started with a <b>5-month internship at <a href='https://caar.dz/'>CAAR</a></b>, where I built a data analysis dashboard that sparked my interest in extracting actionable insights from raw data.
 </p>
-<p>
-This profile showcases my journey so far, including projects in <b>data analysis</b>, <b>visualization</b>, and <b>machine learning</b>, with a focus on real-world applications and insights.</p>
+<p align="left">
+I recently completed a <b>7-month Data Science internship at <a href='https://www.djezzy.dz/'>Djezzy</a></b>, where I worked on practical NLP applications, including the development of an <b>internal HR chatbot</b>.
+<br/>My academic background includes a <b>Master’s degree in Data Science</b>, during which I explored both tabular and unstructured data.
+</p>
+<p align="left">
+This profile reflects my work across <b>data analysis</b>, <b>visualization</b>, <b>machine learning</b>, and <b>natural language processing</b>, with a strong focus on solving real-world business problems through end-to-end solutions.
+</p>
+
 
 <h2>📧 Contact Me</h2>
 <p>For more information, collaborations, or if you'd like to connect on data science or football analytics, feel free to reach out!</p>
