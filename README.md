@@ -49,34 +49,44 @@ This profile reflects my work across <b>data analysis</b>, <b>visualization</b>,
 <table style="width: 100%; text-align: center;" align="center" border="0">
   <tr>
     <td><img src="imgs/python.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Python</p></td>
+    <td><img src="imgs/sql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">SQL</p></td>
     <td><img src="imgs/pandas.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Pandas</p></td>
-    <td><img src="imgs/numpy.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Numpy</p></td>
+    <td><img src="imgs/PySpark.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Pyspark</p></td>
     <td><img src="imgs/matplotlib.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Matplotlib</p></td>
-    <td><img src="imgs/Plotly.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Plotly</p></td>
   </tr>
   <tr>
-    <td><img src="imgs/beautifulsoup.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">BeautifulSoup</p></td>
+    <td><img src="imgs/Plotly.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Plotly</p></td>
+    <td><img src="imgs/numpy.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Numpy</p></td>
     <td><img src="imgs/sklearn.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Scikit-learn</p></td>
-    <td><img src="imgs/PySpark.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Pyspark</p></td>
     <td><img src="imgs/langchain.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">LangChain</p></td>
     <td><img src="imgs/streamlit.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Streamlit</p></td>
   </tr>
 </table>
 
-
-<h3>Database Management</h3>
+<h3>NLP & AI Tools</h3>
 <table style="width: 100%; text-align: center;" align="center" border="0">
   <tr>
-    <td><img src="imgs/sql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">SQL</p></td>
-    <td><img src="imgs/sqlite.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">SQLite</p></td>
-    <td><img src="imgs/mysql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">MySQL</p></td>
-    <td><img src="imgs/PhpMyAdmin.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">phpMyAdmin</p></td>
-    <td><img src="imgs/Oracle.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Oracle</p></td>
+    <td><img src="imgs/ollama.png" style="width: 100px; height: 100px;"><p align="center">Ollama</p></td>
+    <td><img src="imgs/huggingface.png" style="width: 100px; height: 100px;"><p align="center">Hugging Face</p></td>
+    <td><img src="imgs/chromadb.png" style="width: 100px; height: 100px;"><p align="center">ChromaDB</p></td>
+    <td><img src="imgs/unsloth.png" style="width: 100px; height: 100px;"><p align="center">unsloth</p></td>
   </tr>
 </table>
 
 
-<h3>Data Visualisation</h3>
+
+<h3>Data Management</h3>
+<table style="width: 100%; text-align: center;" align="center" border="0">
+  <tr>
+    <td><img src="imgs/sqlite.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">SQLite</p></td>
+    <td><img src="imgs/mysql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">MySQL</p></td>
+    <td><img src="imgs/Oracle.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Oracle</p></td>
+    <td><img src="imgs/Postgresql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">PostgreSQL</p></td>
+  </tr>
+</table>
+
+
+<h3>Dashboarding & BI Tools</h3>
 <table style="width: 100%; text-align: center;" align="center" border="0">
   <tr>
     <td><img src="imgs/tableau.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Tableau</p></td>
@@ -85,7 +95,7 @@ This profile reflects my work across <b>data analysis</b>, <b>visualization</b>,
   </tr>
 </table>
 
-<h3>Development</h3>
+<h3>Development & Version Control</h3>
 <table style="width: 100%; text-align: center;" align="center" border="0">
   <tr>
     <td><img src="imgs/jupyter.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Jupyter</p></td>
