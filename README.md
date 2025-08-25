@@ -14,14 +14,16 @@
 
 <h2>📜 About Me</h2>
 <p align="left">
-I'm a Data Scientist with a strong foundation in analytics, machine learning, and natural language processing. My journey started with a <b>5-month internship at <a href='https://caar.dz/'>CAAR</a></b>, where I built a data analysis dashboard that sparked my interest in extracting actionable insights from raw data.
+I'm a Data Scientist with a strong foundation in analytics, machine learning, and natural language processing. My journey started with a <b>5-month internship at <a href='https://caar.dz/'>CAAR</a></b>, where I built a Streamlit dashboard analyzing sales, claims, and client KPIs, which sparked my interest in transforming raw data into actionable insights.  
 </p>
 <p align="left">
-I recently completed a <b>7-month Data Science internship at <a href='https://www.djezzy.dz/'>Djezzy</a></b>, where I worked on practical NLP applications, including the development of an <b>internal HR chatbot</b>.
-<br/>My academic background includes a <b>Master’s degree in Data Science</b>, during which I explored both tabular and unstructured data.
+I then completed a <b>7-month Data Science internship at <a href='https://www.djezzy.dz/'>Djezzy</a></b>, where I worked on practical NLP applications, including the development of an <b>internal HR chatbot</b> using LLMs and RAG pipelines.  
 </p>
 <p align="left">
-This profile reflects my work across <b>data analysis</b>, <b>visualization</b>, <b>machine learning</b>, and <b>natural language processing</b>, with a strong focus on solving real-world business problems through end-to-end solutions.
+Most recently, I worked at <b><a href='https://www.sigservice-dz.com/'>SIG Service</a></b> on <b>three large-scale Odoo migration projects (>200GB)</b>, using Apache NiFi and SQL to build and debug high-volume data pipelines, ensure schema consistency, and produce technical documentation for IT and business teams.  
+</p>
+<p align="left">
+My academic background includes a <b>Master’s degree in Data Science</b>, where I explored both structured and unstructured data. This profile reflects my work across <b>data analysis</b>, <b>visualization</b>, <b>machine learning</b>, and <b>natural language processing</b>, with a strong focus on delivering end-to-end, business-driven solutions.  
 </p>
 
 
@@ -82,6 +84,7 @@ This profile reflects my work across <b>data analysis</b>, <b>visualization</b>,
     <td><img src="imgs/mysql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">MySQL</p></td>
     <td><img src="imgs/Oracle.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Oracle</p></td>
     <td><img src="imgs/Postgresql.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">PostgreSQL</p></td>
+    <td><img src="imgs/nifi.png" style="width: 100px; height: 100px; object-fit: contain; margin: 0 auto;"><p align="center">Apache NiFi</p></td>
   </tr>
 </table>
 
